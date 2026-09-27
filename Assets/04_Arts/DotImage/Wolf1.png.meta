@@ -1,0 +1,691 @@
+fileFormatVersion: 2
+guid: 4d23bf1f39595de45b1753a174efdacf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2886789852533199537
+    second: Wolf1_0
+  - first:
+      213: -663164874109640668
+    second: Wolf1_1
+  - first:
+      213: -5629650420323753923
+    second: Wolf1_2
+  - first:
+      213: -7714018399376672063
+    second: Wolf1_3
+  - first:
+      213: 54891236992066943
+    second: Wolf1_4
+  - first:
+      213: -2326901277762102842
+    second: Wolf1_5
+  - first:
+      213: -4885714298468281047
+    second: Wolf1_6
+  - first:
+      213: 3744165860442971697
+    second: Wolf1_7
+  - first:
+      213: 4943425347744860457
+    second: Wolf1_8
+  - first:
+      213: -7480041881263189457
+    second: Wolf1_9
+  - first:
+      213: 8976580041885155817
+    second: Wolf1_10
+  - first:
+      213: 3912187944521228935
+    second: Wolf1_11
+  - first:
+      213: 5173006740785524092
+    second: Wolf1_12
+  - first:
+      213: -2393501183015351398
+    second: Wolf1_13
+  - first:
+      213: 1148355492944514349
+    second: Wolf1_14
+  - first:
+      213: 5503411387178874700
+    second: Wolf1_15
+  - first:
+      213: 89748878060314653
+    second: Wolf1_16
+  - first:
+      213: 9154410238190716512
+    second: Wolf1_17
+  - first:
+      213: -9001999170664528364
+    second: Wolf1_18
+  - first:
+      213: 6387101100303236268
+    second: Wolf1_19
+  - first:
+      213: 8652656708918812393
+    second: Wolf1_20
+  - first:
+      213: 5237138574880963863
+    second: Wolf1_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wolf1_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 808
+        width: 94
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d6e8a8cef00f7d0800000000000000
+      internalID: -2886789852533199537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf1_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 816
+        width: 92
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 420ad238f07fbc6f0800000000000000
+      internalID: -663164874109640668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf1_2
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 820
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3069f615c67fd1b0800000000000000
+      internalID: -5629650420323753923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf1_3
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 807
+        width: 70
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca735ae22d42f490800000000000000
+      internalID: -7714018399376672063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf1_4
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 820
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75a13a0a4303c000800000000000000
+      internalID: 54891236992066943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf1_5
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 820
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c95697cd9f25bfd0800000000000000
+      internalID: -2326901277762102842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf1_6
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 18
+        width: 882
+        height: 775
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92550cd2bb4723cb0800000000000000
+      internalID: -4885714298468281047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf1_7
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 746
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e19db3303f5f330800000000000000
+      internalID: 3744165860442971697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf1_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 756
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9298ef199239a9440800000000000000
+      internalID: 4943425347744860457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 695
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22534a3a8d813890800000000000000
+      internalID: -7480041881263189457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf1_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 692
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e10d66fcf7339c70800000000000000
+      internalID: 8976580041885155817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf1_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 572
+        width: 41
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782e0c73532ea4630800000000000000
+      internalID: 3912187944521228935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 651
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7de83519363ac740800000000000000
+      internalID: 5173006740785524092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf1_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 551
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b84e8fa5398ced0800000000000000
+      internalID: -2393501183015351398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf1_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 450
+        width: 16
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d83d09c37cfef00800000000000000
+      internalID: 1148355492944514349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 472
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47f2a19f7b006c40800000000000000
+      internalID: 5503411387178874700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf1_16
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 466
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1066cb012ade3100800000000000000
+      internalID: 89748878060314653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf1_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 353
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0668e870c9ffa0f70800000000000000
+      internalID: 9154410238190716512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf1_18
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 50
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4160e2ce279721380800000000000000
+      internalID: -9001999170664528364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf1_19
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 47
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacb4144c9a83a850800000000000000
+      internalID: 6387101100303236268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf1_20
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 33
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee918ade69641870800000000000000
+      internalID: 8652656708918812393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wolf1_21
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 15
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d764b49cd0ea840800000000000000
+      internalID: 5237138574880963863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Wolf1_0: -2886789852533199537
+      Wolf1_1: -663164874109640668
+      Wolf1_10: 8976580041885155817
+      Wolf1_11: 3912187944521228935
+      Wolf1_12: 5173006740785524092
+      Wolf1_13: -2393501183015351398
+      Wolf1_14: 1148355492944514349
+      Wolf1_15: 5503411387178874700
+      Wolf1_16: 89748878060314653
+      Wolf1_17: 9154410238190716512
+      Wolf1_18: -9001999170664528364
+      Wolf1_19: 6387101100303236268
+      Wolf1_2: -5629650420323753923
+      Wolf1_20: 8652656708918812393
+      Wolf1_21: 5237138574880963863
+      Wolf1_3: -7714018399376672063
+      Wolf1_4: 54891236992066943
+      Wolf1_5: -2326901277762102842
+      Wolf1_6: -4885714298468281047
+      Wolf1_7: 3744165860442971697
+      Wolf1_8: 4943425347744860457
+      Wolf1_9: -7480041881263189457
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

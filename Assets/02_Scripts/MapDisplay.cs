@@ -218,7 +218,7 @@ public class MapDisplay : MonoBehaviour
         if (current.connectedNodes.Contains(neighbor))
             return;
 
-        if (Random.value < 0.25f)
+        if (Random.value < 0.05f)
         {
             ConnectTwoNodes(current, neighbor);
         }
