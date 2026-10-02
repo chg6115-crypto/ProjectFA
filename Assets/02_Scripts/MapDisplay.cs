@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -6,6 +6,7 @@ public class MapDisplay : MonoBehaviour
 {
     public GameObject mapCellPrefab;
     public Transform mapPanel;
+    public Transform mapGrid;
 
     [Header("Room Icons (Optional)")]
     public Sprite startIcon;
@@ -51,9 +52,9 @@ public class MapDisplay : MonoBehaviour
 
         if (!gridCreated)
         {
-            if (mapCellPrefab == null || mapPanel == null)
+            if (mapCellPrefab == null || mapPanel == null || mapGrid == null)
             {
-                Debug.LogError("MapDisplay: Map Cell Prefab과 Map Panel을 연결하세요.", this);
+                Debug.LogError("MapDisplay: Map Cell Prefab, Map Panel, Map Grid를 연결하세요.", this);
                 return;
             }
             if (!ValidatePrefab()) return;
@@ -97,7 +98,7 @@ public class MapDisplay : MonoBehaviour
         {
             for (int lane = 0; lane < MAP_SIZE; lane++)
             {
-                GameObject cell = Instantiate(mapCellPrefab, mapPanel);
+                GameObject cell = Instantiate(mapCellPrefab, mapGrid);
                 cell.name = $"MapCell_{depth}_{lane}";
                 cell.SetActive(true);
                 cells[depth, lane] = cell;
